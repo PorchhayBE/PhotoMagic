@@ -6,7 +6,6 @@ Welcome to the Photo Magic project! This project demonstartes the encryption and
 Here are the result which I feed image in
 
 ![encrypted process](/encode.png)
-![decrypted process](/decode.png)
 
 To run the program, you need to have c++ 17 installed and SFML library install
 
